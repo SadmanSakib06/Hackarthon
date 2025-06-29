@@ -1,2 +1,1 @@
-# ResearchMate
-## Your Reasearch Assistant Web-App 
+# Reasearch Assistant Web-App (ResearchMate)
